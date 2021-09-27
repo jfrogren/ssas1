@@ -19,6 +19,11 @@ I Kästen-Ebeling & Otterup: Kapitel 2, 3, 5, 6, 7 och 11
 
 ### Identifiera andraspråksforskningslitteraturen som förespråkar ett "språk- och kunskapsutvecklande arbetssätt"
 
+* Grundar sig i en teori om att det är språket som bär kunskapen; att det handlar om att förvärva olika litteraciteter och att det i skolan handlar om att stötta eleverna till att gå från vardagsspråk till ett skolspråk och ett mer ämnesspecifikt skolspråk... att så att sga vidga deras register. Här kommer Vygotskij in eftersom hans teorier beskriver hur barnen genom att delta i aktiviteter och i kulturer lär sig att sätta ord på saker och ting för att sedan kunna tänka med hjälp av dessa ord. Nyckeln är att man deltar i kulturella praktiker. 
+* Här är cirkelmodellen till hjälp - det är en modell som väldigt explicit visar hur man kan handleda eleverna i skolspråket. Genom att titta på hur texter fungerar och alltså vad som egentligen görs i språket och gå igenom det innan man förväntas skriva sådana texter på egen hand. Också en demokratisk fråga för elever i en akademisk familj där kanske man pratar om sådana saker och man förvärvar den litteraciteten hemma, men för elever som inte har den miljön hemma så krävs det att man tar upp och dekonstruerar texttyper på detta sätt för att de ska ges en chans att förstå och förmå erövra en sådan litteracitet och alltså lära sig att skriva på det sättet.
+* Ett sätt att synligöra vad det är vi gör med språket
+
+
 Enligt Greppa språket [-@skolverket2012, s. 12-13] gynnas flerspråkiga elevers lärande av att "språk- och kunskapsutvecklande arbetssätt" i vilket:
 
 * Läraren betonar läsning, skrivande, muntlig framställning, lyssnande och visualiseringar
@@ -30,9 +35,9 @@ Enligt Greppa språket [-@skolverket2012, s. 12-13] gynnas flerspråkiga elevers
 * Läraren skapar en elevcentrerad klassrumsmiljö
 * Läraren arbetar transspråkande
 
-### Vad menas med ett "språk- och kunskapsutvecklande arbetssätt"?
+### Redogör för vad ett "språk- och kunskapsutvecklande arbetssätt" innebär
 
-
+Ett sätt genom vilket språket och kunskapen utvecklas i samspel eller hand i hand.
 
 ### Vilka är de bakomliggande teorierna och forskningen?
 *Alltså de teorier och den forskning som stöder detta arbetssätt*
@@ -50,7 +55,7 @@ Det som också ligger till grund för detta arbetssätt är forskning om **moder
 
 Här påtalas av någon (hämtat från slide) att grupparbete är bra, men kräver genomtänkta, kognitivt krävande uppgifter: **Utvecklande samtal**
 
-Centrala begrepp utifrån Vygotskijs teori är också **stöttning** och den  **närmaste utvecklingszonen** [@skolverket2012, s. 28] och här påtalas i en slide när det gäller stöttning att uppgifterna i Gibbons bok + **interaktiv stöttning** [@gibbons2018, s. 226] är att beakta. Det handlar om att lyssna efter vad eleverna försöker säga, ge eleverna mer tid att svara, inväntar, sammanfattar med akademiska termer, m.m. När det gäller närmaste utvecklingszonen handlar det om att uppgifterna inte får vara för svåra och inte för lätta.
+Centrala begrepp utifrån Vygotskijs teori är också **stöttning** och den  **närmaste utvecklingszonen** [@skolverket2012, s. 28] och här påtalas i en slide när det gäller stöttning att uppgifterna i Gibbons bok + **interaktiv stöttning** [@gibbons2018, s. 226] är att beakta. Det handlar om att lyssna efter vad eleverna försöker säga, ge eleverna mer tid att svara, invänta, sammanfatta med akademiska termer, m.m. När det gäller närmaste utvecklingszonen handlar det om att uppgifterna inte får vara för svåra och inte för lätta.
 
 #### Kognitiv kvalitet
 
@@ -71,7 +76,7 @@ Med **kognitivt krävande uppgifter** menar Gibbons [-@gibbons2018, s. 47-77]:
 
 * Uppgifter utan tak (problembaserade, kräver djupförståelse och kunskaper inom fler ämnen, verklighetsanknutna, kräver insamling, sammanställning, bearbetning av mkt info, kräver utvecklande samtal, m.m.)
 * Autentiska uppgifter
-* Lärligskap (jfr. Vygotskij)
+* Lärlingskap (jfr. Vygotskij)
 * Synliggöra tänkandet
 
 När det kommer till **utvecklande samtal** innefattar det enligt Gibbons [-@gibbons2018, s. 209]:
@@ -92,7 +97,7 @@ När det kommer till **utvecklande samtal** innefattar det enligt Gibbons [-@gib
 #### Cirkelmodellen
 
 1. Bygg upp en gemensam begrepps- och kunskapsbank inom ämnesområdet
-2. Modellera genren (syfte, uppbyggnad, språkliga drag, läs modelltexter)
+2. Modellera genren (syfte, uppbyggnad, språkliga drag, läs modelltexter) <!-- När man dekonstruerar på detta sätt lär man sig också att förstå att det finns olika texttyper och de har olika struktur och olika språkliga drag nämligen: 1. Återberättande (när vi berättar vad som har hänt); 2. Narrativ (som också berättar men där det finns en konflikt); 3. Beskrivande (en beskrivning av någonting); 4. Förklarande (som förklarar hur någonting fungerar eller vad som händer); 5. Argumenterande  -->
 3. Skriv gemensamt texten
 4. Skriv självständigt
 
@@ -127,7 +132,4 @@ I PPT-presentationen ges andra exempel nämligen:
 * Textdekonstruktion. En text text dekonstrueras efter struktur och språkliga drag med början i rubriken, därefter bakgrund, tes, argument, motargument, osv.
 * Dictogloss [@gibbons2018, s. 109]: Innehåll och form; Lära genom varandra
 * Post-it-lappar på tavlan [@gibbons2018, s. 108]; Möjlighet att få tänka innan man pratar; Alla får komma till tals
-* Sista ordet [@gibbons2018, s. 113]: Ett "reglerat samtal"; Alla får komma till tals
-
-
-
+* Sista ordet [@gibbons2018, s. 113]: Ett "reglerat samtal"; Alla får komma till tals.
