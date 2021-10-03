@@ -3,7 +3,6 @@ title: Språk- och kunskapsutvecklande arbetssätt
 date: 3 oktober 2021
 
 ---
-
 <!--
 
 *Inom andraspråksforskning förespråkas undervisning som utmärks av ett språk- och kunskapsutvecklande arbetssätt. Redogör för innebörden av ett språk-och kunskapsutvecklande arbetssätt samt för bakomliggande teorier och forskning. Diskutera hur andraspråksundervisningen kan utformas så att den stöttar elevernas språk- och kunskapsutveckling samt belys med exempel. Ta stöd i relevant styrdokument i din diskussion.*
@@ -25,17 +24,34 @@ I Kästen-Ebeling & Otterup: Kapitel 2, 3, 5, 6, 7 och 11
 
 ### Vad är ett språk- och kunskapsutvecklande arbetssätt ?
 
-Inom andraspråksforskning förespråkas sedan en tid tillbaka att undervisning i skolan bör bedrivas utifrån ett så kallat *språk- och kunskapsutvecklande arbetssätt* [@skolverket2012]. Det innebär enligt den australiensiska andraspråksforskaren Pauline Gibbons (1946-) att undervisningen sker på ett sätt så att "språket ständigt sätts i fokus i alla ämnen och där språk och innehåll integreras så att språket utvecklas parallellt med ämneskunskaperna" [@gibbons2013, s. 33].
+Inom andraspråksforskning förespråkas sedan en tid tillbaka att undervisning i skolan bör bedrivas utifrån ett så kallat *språk- och kunskapsutvecklande arbetssätt* [@skolverket2012]. Det innebär enligt den australiensiska forskaren Pauline Gibbons (1946-) att undervisningen sker på ett sätt så att "språket ständigt sätts i fokus i alla ämnen och där språk och innehåll integreras så att språket utvecklas parallellt med ämneskunskaperna" [@gibbons2013, s. 33].
 
-Det är en pedagogik och ett synsätt som skiljer sig från den mer traditionella där elevernas språkutveckling främst var något som ansågs vara ett ämne för lektionerna i svenska, engelska och andra språk, medan undervisningen i till exempel NO och SO var inriktad på att lära ut ämnesspecifika teorier och förklaringsmodeller (ref). Här har det dock skett en förändring och i en av Skolverkets skrifter står nu att läsa följande när det gäller synen på språkets betydelse för lärande:
+Det är en pedagogik och ett synsätt som skiljer sig från den mer traditionella där elevernas språkutveckling främst var något som ansågs vara ett ämne för lektionerna i språk, medan undervisningen i till exempel NO och SO var inriktad på att lära ut ämnesspecifika teorier och förklaringsmodeller (ref). Här har det dock skett en förändring och i en av Skolverkets skrifter står nu att läsa följande när det gäller synen på språkets betydelse för lärande:
 
 > ”*Om alla lärare har en medvetenhet om språkets betydelse för lärandet och verktyg för att på bästa sätt möta elevernas behov, har fler elever möjlighet att nå de kunskapskrav som kursplanerna ställer. För att utveckla skolan till en språk- och kunskapsutvecklande miljö krävs att alla bidrar på olika sätt.*” [@skolverket2012, s. 133]
 
 ### Vilka forskning ligger till grund för förordandet av detta arbetssätt?
+ 
+I huvudsak tre teorier ligger till grund för den förändrade synen på hur undervisning bör bedrivas för att skapa de bästa förutsättningarna för en så effektiv andraspråksutveckling som möjligt (ref). Gemensamt för dessa teorier, som jag snart ska beskriva mer utförligt, att de fokuserar på det sammanhang där andraspråket utvecklas och vad som utmärker det. Under den senare delen av 1900-talet väcktes inom språkforskning generellt - men även andraspråksforskning specifikt - kritik inom mot vad som ansågs vara en alltför kausal, mekanisk och individcentrerad syn på språkutveckling, och där man ansåg att det sociala och kulturella sammanhang där språket utvecklades hittills inte betonats tillräckligt (kap. 17, s. 490).
 
-Två språkteorier liggger till grund för den forskning som bedrivits inom andraspråksforskning som föranlett den förändrade synen på språkets betydelse för att utveckla kunskap. Den första teorin är Lev Vygotskijs (1896-1934) sociokulturella teori om att lärande sker genom samarbete och stöttning i den närmaste utvecklingszonen [@vygotskij2001]. Den andra är teorin som utgår från Michael Hallidays (1925-2018) systematisk-funktionella grammatik (SFG) [@halliday1993]. 
+Den första inflytelserika teorin som utgjort en form av teoretisk språngbräda för sociologiskt inriktad andraspråksforskning är den rysk-judiske pedagogen och filosofen Lev Vygotskijs (1896-1934), sociokulturella teori om att lärande sker genom samspel och med hjälp av stöttning i den så kallade närmaste utvecklingszonen [@vygotskij2001]. Vygotskij betonade att det finns ett glapp mellan den kunskapsmässiga nivå som en elev behärskar och den nivå som eleven har möjlighet att lära sig att behärska. Den senare nivån benämner han *den närmaste utvecklingszonen*, och menar vidare att den nivån kan nås i samspel med mer kunniga elever eller lärare och med hjälp av olika sociala och kulturella redskap där det talade och skrivna språket intar centrala roller, men där även t.ex. gester och bilder också kan ingå. Det är genom dessa redskap som kunskap kommuniceras eller *medieras*, menar han (kap. 21, s. 210). Enligt Vygotskijs synsätt är det alltså genom att delta i aktiviteter med andra som vi människor lär oss att sätta ord på saker och ting, för att sedan kunna tänka med hjälp av dessa ord. Nyckeln till att erövra såväl ett språk som kunskap inom ett visst område är således, enligt honom, ett aktivt deltagande i kulturella gemenskaper, *praktiker*,  av olika slag, genom vilket det språk och den kunskap som kännetecknar ett visst sammanhang lärs in.
 
-Enligt Vygotskijs teori är det genom att delta i aktiviteter med andra som vi människor lär oss att sätta ord på saker och ting, för att sedan kunna tänka med hjälp av dessa ord. Nyckeln till att erövra såväl ett språk som kunskap inom ett visst område är således, enligt Vygotskij ett aktivt deltagande i kulturella praktiker av olika slag. + Teori om närmaste utvecklingszonen. Här kan man komma in på vardagsspråk och skolspråk, litteracitet, och också på stöttning. Detta är kopplat till Gibbons tankar om betydelsen av "stöttning".
+Med denna teori som utgångspunkt har andraspråksforskare i studier påvisat vikten av moment i undervisningen där eleverna lär varandra genom att i olika samarbetsformer ta sig an en uppgift, och där läraren intar en mer stöttande roll i elevernas ömsesidiga lärande snarare än en auktoritet som . Mer specifikt kopplat till andraspråksforskningen X är en forskare som utgått från Vygotskijs teori. Hon har stöttning.
+
+Den andra är teorin som ligger till grund för förordandet av ett språk- och kunskapsutvecklande arbetssätt inom skolundervisningen är Michael Hallidays (1925-2018) systematisk-funktionella grammatik (SFG) [@halliday1993]. Hallyday tog i skapandet av sin teori avstamp i den grundläggande frågan om vad språk egentligen fyller för funktion i mänsklig tillvaro. Det han kom fram till var att språket lämpligast kan uttryckas som utgörande ett system, inom vilka vi människor rör oss och där vi hela tiden ställs inför olika valmöjligheter att uttrycka oss på det ena eller andra sättet i syfte att försöka skapa mening och ömsesidig förståelse kring den verklighet vi möter. Centralt för att lära sig behärska ett språk är enligt Hallyday därmed också att implicit eller explicit lära sig grammatiken för detta system och med hjälp av denna 'metakunskap' lära sig att uttrycka sig på ett adekvat sätt givet en viss kulturell kontext och en viss situation. Kontexten för språkanvändning, enligt Hallyday utgörs alltså dels av den kulturella kontexten och dels av situationskontexten. Den kulturella kontexten kan för att bli lite mer konkret sägas utgöras av olika sociala praktiker, och när det kommer till den språkanvändning som utmärker en viss social praktik så benämner Hallyday den *genre*. Att lära sig språkanvändningen i en viss social praktik är alltså, för att tala med Hallyday, att lära sig behärska en viss *genre*. Australiensiska språkforskare har i Hallydays efterföljd vidareutvecklat hans teoribygge, lyft abstraktionsnivån ytterligare ett snäpp och talar om *genrefamilj* (ref). 
+
+
+
+Utmärkande för detta system är att det har en viss struktur med vissa givna kategorier (som existerar oberoende av språk) och som står i ett visst förhållande till varandra och att 
+
+
+
+
+Enligt H. är nyckeln till språkutveckling hur elever tillskriver mening till den verklighet vi tar in med hjälp av våra sinnen.  Ser språk främst som ett system där det för de som lär sig språket gäller att göra de val som språkanvändare har att tillgå inom detta system explicita. Språket är att betrakta som ett systematiskt nätverk av interrelationella val. (Wikipedia). Vad gör språk? Vad fyller det för funktion? Jo, 
+
+
+
+ + Teori om närmaste utvecklingszonen. Här kan man komma in på vardagsspråk och skolspråk, litteracitet, och också på stöttning. Detta är kopplat till Gibbons tankar om betydelsen av "stöttning".
 
 När det gäller Halliday har den teorin haft betydelse  handlar det om att kunna utveckla ett metaspråk tillsammans och att lärare och elever tillsammans därigenom kan prata explicit om språkets struktur och att lära sig olika texttyper...hur språket används i olika sammanhang... Det handlar om att förstå att skolspråket inte är ett enda utan att språket har olika funktioner, såsom att det kan syfta till att berätta och förklara, etc...
 
@@ -49,14 +65,12 @@ Enligt en forskningssammanställning gjord av Meltzer och Hamman har följande v
 * 6. Läraren undervisar om vad som utmärker olika texter i ämnet och också om olika lärandestrategier och använder olika typer av formativ bedömning av elevernas prestation
 * 7. Läraren skapar en elevcentrerad klassrumsmiljö
 
-
 Nummer 1 är kopplat till att det är viktigt att eleverna inte är passiva lyssnare utan aktiva och att de for använda sig av en variation av sinnen och förmågor för att stärka sitt språk och sin kunskap - kopplat till Vygotskijs tankar om lärling och att skolas in i ett sammanhang på flera sätt och med fokus på att vara aktiv och att skapa tillsammans och på egen hand. Nummer 2. är kopplat till kognitiv kvalitet - stöttning och Vygotskij. Nummer 3-4 bygger på insikter utifrån Vygotskijs teorier om språkets centala roll för kunskap men också Hallidays tankar om metaspråk. Nummer 5 kan kopplas till Vygotskij om vilket språk som utmärker en viss praktik samt till Hallidays tankar om metaspråk. Nummer 6 kan nog kopplas till Halliday också... Nummer 7 till Vygotskij igen..
 
 ### Hur kan detta arbetssätt omsättas från teori till praktik?
 
-Hur omsätta detta i praktiken? Jo, genom genrepedagogik som bland annat Gibbons refererar till - består av sociokulturell teori + Halliday + ett tredje ben, i from av en modell: cirkelmodellen som beskriver hur de två teorierna omsätts i praktiken.
+Hur omsätta detta i praktiken? Jo, genom genrepedagogik som bland annat Gibbons refererar till - består av sociokulturell teori + Halliday + ett tredje ben, i from av en modell: cirkelmodellen som beskriver hur de två teorierna omsätts i praktiken. Det är en modell som väldigt explicit visar hur man kan handleda eleverna i skolspråket. Genom att titta på hur texter fungerar och alltså vad som egentligen görs i språket och gå igenom det innan man förväntas skriva sådana texter på egen hand. Också en demokratisk fråga för elever i en akademisk familj där kanske man pratar om sådana saker och man förvärvar den litteraciteten hemma, men för elever som inte har den miljön hemma så krävs det att man tar upp och dekonstruerar texttyper på detta sätt för att de ska ges en chans att förstå och förmå erövra en sådan litteracitet och alltså lära sig att skriva på det sättet.
 
-* Här är cirkelmodellen till hjälp - det är en modell som väldigt explicit visar hur man kan handleda eleverna i skolspråket. Genom att titta på hur texter fungerar och alltså vad som egentligen görs i språket och gå igenom det innan man förväntas skriva sådana texter på egen hand. Också en demokratisk fråga för elever i en akademisk familj där kanske man pratar om sådana saker och man förvärvar den litteraciteten hemma, men för elever som inte har den miljön hemma så krävs det att man tar upp och dekonstruerar texttyper på detta sätt för att de ska ges en chans att förstå och förmå erövra en sådan litteracitet och alltså lära sig att skriva på det sättet.
 * Ett sätt att synligöra vad det är vi gör med språket
 
 Förutsättningen för att läraren ska kunna arbeta med ett "språk- och kunskapsutvecklande arbetssätt" är att hen tar reda på elevernas förkunskaper. Det kan enligt Greppa språket [-@skolverket2012, s. 94] göras genom en blandning av:
@@ -86,7 +100,6 @@ I PPT-presentationen ges andra exempel nämligen:
 * Dictogloss [@gibbons2018, s. 109]: Innehåll och form; Lära genom varandra
 * Post-it-lappar på tavlan [@gibbons2018, s. 108]; Möjlighet att få tänka innan man pratar; Alla får komma till tals
 * Sista ordet [@gibbons2018, s. 113]: Ett "reglerat samtal"; Alla får komma till tals.
-
 
 <!--
 
